@@ -1,7 +1,8 @@
 # NewsGrid
+
 A simple demo website NewsGrid, built using HTML5/CSS3 for the latest news, articles.
 
-Useful Resources-
+# Useful Resources-
 
 1.Brad Traversy-Traversy Media https://www.youtube.com/user/TechGuyWeb
 
@@ -10,4 +11,3 @@ Useful Resources-
 3.Font Awesome Icon - https://fontawesome.com/
 
 4.Google Fonts- https://fonts.google.com/
-
